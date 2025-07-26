@@ -1,0 +1,1 @@
+alter table users add column date_of_registration date;
